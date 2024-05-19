@@ -1,0 +1,30 @@
+Run these commands from the initial state to win:
+
+get mug
+go north
+go east
+go east
+go south
+examine tv
+open safe
+get basement_key
+go north
+go west
+open basement
+go south
+get hand
+go north
+go east
+go south
+fix statue
+get storage_key
+go north
+go west
+go west
+open cupboard
+get coffee
+pour coffee
+drink coffee
+go east
+open door
+go out
